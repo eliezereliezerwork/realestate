@@ -16,7 +16,7 @@ export default function FirstPost() {
             <a href= "https://segelstein.com/">דיני עבודה</a>
             <a href="http://www.hup.co.il/link/%D7%A2%D7%95%D7%A8%D7%9A-%D7%93%D7%99%D7%9F/63118-%D7%96%D7%92%D7%9C%D7%A9%D7%98%D7%99%D7%99%D7%9F-%D7%9E%D7%A9%D7%A8%D7%93-%D7%A2%D7%95%D7%93">תאונת עבודה</a>
             <a href= "https://workaccident.vercel.app/">תאונת עבודה</a>
-
+            <a href="http://www.hup.co.il/link/%D7%A2%D7%95%D7%A8%D7%9A-%D7%93%D7%99%D7%9F/63118-%D7%96%D7%92%D7%9C%D7%A9%D7%98%D7%99%D7%99%D7%9F-%D7%9E%D7%A9%D7%A8%D7%93-%D7%A2%D7%95%D7%93"> אינדקס משרד עו"ד זגלשטיין</a>
             <style jsx>{`
             .container {
               min-height: 100vh;

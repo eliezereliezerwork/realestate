@@ -5,13 +5,13 @@ export default function Home() {
   return (
     <div className="container">
       <Head>
-        <title>עורך דין דיני עבודה</title>
+        <title>עורך דין מקרקעין</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
       <main>
         <h1 className="title">
-        צור קשר <a href="https://segelstein.com/%d7%93%d7%99%d7%a0%d7%99-%d7%a2%d7%91%d7%95%d7%93%d7%94/">דיני עבודה</a>
+        צור קשר <a href="https://segelstein.com/%d7%93%d7%99%d7%a0%d7%99-%d7%a2%d7%91%d7%95%d7%93%d7%94/">מקרקעין</a>
         </h1>
 
         <p className="description">
@@ -20,28 +20,28 @@ export default function Home() {
 
         <div className="grid">
           <a href="https://segelstein.com/%d7%93%d7%99%d7%a0%d7%99-%d7%a2%d7%91%d7%95%d7%93%d7%94/" className="card">
-            <h3>דיני עבודה &rarr;</h3>
+            <h3>מקרקעין &rarr;</h3>
             <p>אם זה קרה לך , תתבע. אל תוותר, אל תכעס, תתבע. צור קשר עם עורך דין </p>
           </a>
 
           <a href="https://segelstein.com/%d7%93%d7%99%d7%a0%d7%99-%d7%a2%d7%91%d7%95%d7%93%d7%94/" className="card">
             <h3>צור קשר &rarr;</h3>
-            <p>עורך דין דיני עבודה</p>
+            <p>עורך דין מקרקעין</p>
           </a>
 
           <a
             href="https://segelstein.com/%d7%93%d7%99%d7%a0%d7%99-%d7%a2%d7%91%d7%95%d7%93%d7%94/"
             className="card"
           >
-            <h3>דיני עבודה &rarr;</h3>
-            <p>עורך דין לדיני עבודה, עוד דיני עבודה, עורך דין דיני עבודה</p>
+            <h3>מקרקעין &rarr;</h3>
+            <p>עורך דין למקרקעין, עוד מקרקעין, עורך דין מקרקעין</p>
           </a>
 
           <a
             href="https://segelstein.com/%d7%93%d7%99%d7%a0%d7%99-%d7%a2%d7%91%d7%95%d7%93%d7%94/"
             className="card"
           >
-            <h3>דיני עבודה &rarr;</h3>
+            <h3>מקרקעין &rarr;</h3>
             <p>
               אל תצא פראייר תתטבע את המעסיק שלך, יש חוקים פה.
             </p>
