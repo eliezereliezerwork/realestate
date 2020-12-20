@@ -11,7 +11,7 @@ export default function Home() {
 
       <main>
         <h1 className="title">
-        צור קשר <a href="https://segelstein.com/%d7%93%d7%99%d7%a0%d7%99-%d7%a2%d7%91%d7%95%d7%93%d7%94/">מקרקעין</a>
+        צור קשר <a href="https://segelstein.com/%d7%9e%d7%a7%d7%a8%d7%a7%d7%a2%d7%99%d7%9f/">מקרקעין</a>
         </h1>
 
         <p className="description">
@@ -19,18 +19,18 @@ export default function Home() {
         </p>
 
         <div className="grid">
-          <a href="https://segelstein.com/%d7%93%d7%99%d7%a0%d7%99-%d7%a2%d7%91%d7%95%d7%93%d7%94/" className="card">
+          <a href="https://segelstein.com/%d7%9e%d7%a7%d7%a8%d7%a7%d7%a2%d7%99%d7%9f/" className="card">
             <h3>מקרקעין &rarr;</h3>
             <p>אם זה קרה לך , תתבע. אל תוותר, אל תכעס, תתבע. צור קשר עם עורך דין </p>
           </a>
 
-          <a href="https://segelstein.com/%d7%93%d7%99%d7%a0%d7%99-%d7%a2%d7%91%d7%95%d7%93%d7%94/" className="card">
+          <a href="https://segelstein.com/%d7%9e%d7%a7%d7%a8%d7%a7%d7%a2%d7%99%d7%9f/" className="card">
             <h3>צור קשר &rarr;</h3>
             <p>עורך דין מקרקעין</p>
           </a>
 
           <a
-            href="https://segelstein.com/%d7%93%d7%99%d7%a0%d7%99-%d7%a2%d7%91%d7%95%d7%93%d7%94/"
+            href="https://segelstein.com/%d7%9e%d7%a7%d7%a8%d7%a7%d7%a2%d7%99%d7%9f/"
             className="card"
           >
             <h3>מקרקעין &rarr;</h3>
@@ -38,7 +38,7 @@ export default function Home() {
           </a>
 
           <a
-            href="https://segelstein.com/%d7%93%d7%99%d7%a0%d7%99-%d7%a2%d7%91%d7%95%d7%93%d7%94/"
+            href="https://segelstein.com/%d7%9e%d7%a7%d7%a8%d7%a7%d7%a2%d7%99%d7%9f/"
             className="card"
           >
             <h3>מקרקעין &rarr;</h3>
@@ -47,7 +47,7 @@ export default function Home() {
             </p>
           </a>
           <a
-            href="https://segelstein.com/%d7%93%d7%99%d7%a0%d7%99-%d7%a2%d7%91%d7%95%d7%93%d7%94/"
+            href="https://segelstein.com/%d7%9e%d7%a7%d7%a8%d7%a7%d7%a2%d7%99%d7%9f/"
             className="card"
           ></a>
         </div>
@@ -63,7 +63,7 @@ export default function Home() {
 
       <footer>
         <a
-          href="https://segelstein.com/%d7%93%d7%99%d7%a0%d7%99-%d7%a2%d7%91%d7%95%d7%93%d7%94/"
+          href="https://segelstein.com/%d7%9e%d7%a7%d7%a8%d7%a7%d7%a2%d7%99%d7%9f/"
           target="_blank"
           rel="noopener noreferrer"
         >
